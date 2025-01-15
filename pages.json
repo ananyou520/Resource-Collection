@@ -1,0 +1,141 @@
+{
+  "pages": [{
+    "path": "pages/index",
+    "style": {
+      "navigationBarTitleText": "资源查询",
+	  "navigationBarBackgroundColor": "#4A90E2",
+	  "navigationBarTextStyle": "white"
+	  
+    }
+  }, {
+    "path": "pages/ranking/index",
+    "style": {
+      "navigationBarTitleText": "排行榜",
+	  "navigationStyle": "custom"
+    }
+  }, {
+    "path": "pages/mine/index",
+    "style": {
+      "navigationBarTitleText": "我的",
+	  "navigationStyle": "custom"
+    }
+  },
+  {
+  	"path" : "pages/mine/guanzhu",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "关于我们"
+  	}
+  },
+  {
+  	"path" : "pages/mine/imgShow",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : ""
+  	}
+  },
+  {
+  	"path" : "pages/mine/mzsm",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "版权免责声明"
+  	}
+  },
+  {
+  	"path" : "pages/shuiyin/delWatermark",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "去除水印"
+  	}
+  },
+  {
+  	"path" : "pages/shuiyin/problem",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "教程和问题"
+  	}
+  },
+  {
+  	"path" : "pages/shuiyin/video",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "视频解析结果"
+  	}
+  },
+  {
+  	"path" : "pages/shuiyin/image",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "图片解析结果"
+  	}
+  },
+  {
+  	"path" : "pages/adinfo/meituan",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "优惠卷天天领",
+		"navigationStyle": "custom"
+  	}
+  },
+  {
+  	"path" : "pages/party/index",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "吃喝玩乐"
+  	}
+  },
+  {
+  	"path" : "pages/upday/upday",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "今日更新"
+  	}
+  },
+  {
+  	"path" : "pages/tool/video_tutorials",
+  	"style" : 
+  	{
+  		"navigationBarTitleText" : "使用教程"
+  	}
+  }],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    // "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+        "pagePath": "pages/index",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home_.png",
+        "text": "首页"
+      },
+	  {
+        "pagePath": "pages/ranking/index",
+        "iconPath": "static/images/tabbar/ranking.png",
+        "selectedIconPath": "static/images/tabbar/ranking_.png",
+        "text": "排行榜"
+      }
+	  ,
+	  {
+	    "pagePath": "pages/party/index",
+	    "iconPath": "static/images/tabbar/party.png",
+	    "selectedIconPath": "static/images/tabbar/party_.png",
+	    "text": "吃喝玩乐"
+	  },
+	  {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/images/tabbar/mine.png",
+        "selectedIconPath": "static/images/tabbar/mine_.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "easycom": {
+  		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+  	},
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "橘子短剧",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  }
+}
