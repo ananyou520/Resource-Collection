@@ -88,11 +88,11 @@
         <td align="center" bgcolor=#F6F8FA>QQ</td>
     </tr>
     <tr>
-        <td bgcolor=#FFFFFF><img src="https://img.eplusskin.com/uploads/20240730/wx3.png"/></td>
-        <td bgcolor=#FFFFFF><img src="https://img.eplusskin.com/uploads/20240730/qiuqiu3.png"/></td>
+        <td bgcolor=#FFFFFF><img width = "300" src="https://simgs.emoboy.vip/appimg/bigwx.png"/></td>
+        <td bgcolor=#FFFFFF><img width = "300" src="https://img.eplusskin.com/uploads/20240730/qiuqiu3.png"/></td>
     </tr>
     <tr>
-        <td align="center">YiMoZiYuan666</td>
+        <td align="center">yimocc666</td>
         <td align="center">1149297946</td>
     </tr>
 </table>
