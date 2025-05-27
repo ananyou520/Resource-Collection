@@ -80,22 +80,9 @@
 
 ## 技术支持
 
-- 如有问题欢迎联系作者
+- 如有问题，代部署搭建欢迎联系作者
 
-<table>
-    <tr>
-        <td align="center" bgcolor=#F6F8FA>微信</td>
-        <td align="center" bgcolor=#F6F8FA>QQ</td>
-    </tr>
-    <tr>
-        <td bgcolor=#FFFFFF><img width = "300" src="https://simgs.emoboy.vip/appimg/bigwx.png"/></td>
-        <td bgcolor=#FFFFFF><img width = "300" src="https://img.eplusskin.com/uploads/20240730/qiuqiu3.png"/></td>
-    </tr>
-    <tr>
-        <td align="center">yimocc666</td>
-        <td align="center">1149297946</td>
-    </tr>
-</table>
+<img width = "650" src="https://simgs.emoboy.vip/appimg/ause/wx_qq.png"/>
 
 
 
