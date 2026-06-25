@@ -1,6 +1,4 @@
-<p align="center">
-	<img alt="logo" src="https://img.eplusskin.com/uploads/20240730/log.png">
-</p>
+
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">短剧资源搜索</h1>
 <h4 align="center">基于UniApp开发</h4>
 <p align="center">
@@ -74,7 +72,7 @@
         <td bgcolor=#FFFFFF>打开微信搜索公众号关注 “依沫资源网” 或微信扫描下方二维码关注微信公众号并发送 "短剧搜索源码" 即可获取最新网盘下载地址（建议转存到自己的网盘中，防止分享链接过期失效） </td>
     </tr>
 </table>
-<img src="https://img.eplusskin.com/uploads/20240730/gongzhonghao2.png" alt="公众号"/>
+<img src="https://simgs.emoboy.vip/appimg/gongzhonghao.png" alt="公众号"/>
 
 * 需要后端请打开微信搜索公众号关注 “依沫资源网” 或微信扫面上方二维码关注微信公众号发送 "短剧搜索源码" 即可获取
 
